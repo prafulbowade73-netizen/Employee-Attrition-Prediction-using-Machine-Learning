@@ -70,8 +70,8 @@ No  → 0 → Employee stays in the company
 | Seaborn          | Statistical visualization |
 | Scikit-learn     | Machine Learning          |
 | Jupyter Notebook | Development               |
-| Git & GitHub     | Version control           |
-
+| Git & GitHub    | Version control           |
+| ML |
 ---
 
 ## 🔄 Project Workflow
