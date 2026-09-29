@@ -429,6 +429,21 @@ Aspiring **Data Scientist / Machine Learning Engineer**
 ✔ Model comparison
 ✔ Confusion Matrix
 ✔ Feature Importance
+
+## 🚀 Live Demo
+
+Coming Soon...
+
+## 📸 Project Screenshots
+
+### Employee Attrition Distribution
+![Attrition](images/attrition.png)
+
+### Overtime vs Attrition
+![Overtime](images/overtime.png)
+
+### Confusion Matrix
+![Confusion Matrix](images/confusion_matrix.png)
 ✔ Employee Attrition Prediction
 ```
 
